@@ -12,5 +12,7 @@ Make sure pytesseract is in the path:
 
 
 C:\Users\[Replace with windows username] \AppData\Local\Programs\Tesseract-OCR
+
 C:\Users\[Replace with windows username]\AppData\Local\Programs\Tesseract-OCR\tesseract.exe
+
 C:\Users\[Replace with windows username]\AppData\Local\Programs\Tesseract-OCR\tessdata
