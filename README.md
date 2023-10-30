@@ -9,6 +9,6 @@ Make sure pytesseract is in the path:
 2. Click on path in the first box, then click edit -
    
 3. Click new, then in the text box enter the path to pytesseract (Repeat 3 times for 3 different paths)
---> C:\Users\[Replace with windows username] \AppData\Local\Programs\Tesseract-OCR
---> C:\Users\[Replace with windows username]\AppData\Local\Programs\Tesseract-OCR\tesseract.exe
---> C:\Users\[Replace with windows username]\AppData\Local\Programs\Tesseract-OCR\tessdata
+\nC:\Users\[Replace with windows username] \AppData\Local\Programs\Tesseract-OCR
+\nC:\Users\[Replace with windows username]\AppData\Local\Programs\Tesseract-OCR\tesseract.exe
+\nC:\Users\[Replace with windows username]\AppData\Local\Programs\Tesseract-OCR\tessdata
